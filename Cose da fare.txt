@@ -1,0 +1,6 @@
+- mettere fisse le testimonianze e renderle scorrevoli con un click
+- chiudere il div della email quando la mail viene inviata
+- aggiungere pulsante DOWNLOAD CV
+- Colore sito come il CV (blu e grigio)
+- aggiungere info a treemap e LJ
+- aggiungere altri progetti (@silo, Sito MIT) da mettere sul sito e rendere funzionanti
