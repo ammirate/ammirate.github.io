@@ -1,1 +1,1 @@
-# ammirate.github.io
+Deprecated website
